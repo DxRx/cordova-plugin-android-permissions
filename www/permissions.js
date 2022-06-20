@@ -36,6 +36,7 @@ function Permissions() {
     this.BLUETOOTH_ADVERTISE = "android.permission.BLUETOOTH_ADVERTISE";
     this.BLUETOOTH_PRIVILEGED = 'android.permission.BLUETOOTH_PRIVILEGED';
     this.BLUETOOTH_SCAN = "android.permission.BLUETOOTH_SCAN";
+    this.BLUETOOTH_CONNECT = "android.permission.BLUETOOTH_CONNECT";
     this.BODY_SENSORS = 'android.permission.BODY_SENSORS';
     this.BRICK = 'android.permission.BRICK';
     this.BROADCAST_PACKAGE_REMOVED = 'android.permission.BROADCAST_PACKAGE_REMOVED';
