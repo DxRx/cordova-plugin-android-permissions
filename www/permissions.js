@@ -117,6 +117,7 @@ function Permissions() {
     this.RECORD_AUDIO = 'android.permission.RECORD_AUDIO';
     this.REORDER_TASKS = 'android.permission.REORDER_TASKS';
     this.RESTART_PACKAGES = 'android.permission.RESTART_PACKAGES';
+    this.SCHEDULE_EXACT_ALARM = 'android.permission.SCHEDULE_EXACT_ALARM';
     this.SEND_RESPOND_VIA_MESSAGE = 'android.permission.SEND_RESPOND_VIA_MESSAGE';
     this.SEND_SMS = 'android.permission.SEND_SMS';
     this.SET_ACTIVITY_WATCHER = 'android.permission.SET_ACTIVITY_WATCHER';
